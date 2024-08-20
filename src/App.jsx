@@ -458,7 +458,7 @@ const styles = StyleSheet.create({
     textAlign: 'center'
   },
   Remarks: {
-    marginTop: 20,
+    marginTop: 8,
     borderWidth: 1,
     borderRadius: 5,
     padding: 10
@@ -794,6 +794,216 @@ const MyDocument = () => {
               </View>
               <View style={styles.SecTableColOneData}>
                 <Text style={styles.SecTextData}>Bangla</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
               </View>
               <View style={styles.SecTableColTwoData}>
                 <Text style={styles.SecTextData}>100</Text>
