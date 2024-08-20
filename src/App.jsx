@@ -12,20 +12,20 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
   img: {
-    width: 70,
+    width: 50,
   },
   H_Text: {
-    fontSize: 22,
+    fontSize: 15,
     marginLeft: 7
   },
   H_TextOne: {
-    fontSize: 12,
+    fontSize: 7,
     marginLeft: 7,
     marginTop: 3
   },
   Sub_Header: {
-    marginTop: 20,
-    fontSize: 20,
+    marginTop: 5,
+    fontSize: 12,
     textAlign: 'center'
   },
   TwoTable: {
@@ -157,7 +157,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     height: 'auto',
     padding: 5,
-    backgroundColor: '#cedded',
+    backgroundColor: '#A7A7A7',
   },
   RightTableColOne: {
     width: '40%',
@@ -166,7 +166,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     height: 'auto',
     padding: 5,
-    backgroundColor: '#cedded',
+    backgroundColor:'#A7A7A7',
   },
   RightTableColTwo: {
     width: '40%',
@@ -203,7 +203,8 @@ const styles = StyleSheet.create({
     borderStyle: 'solid',
     borderWidth: 1,
     height: 'auto',
-    padding: 5,
+    padding: 3.5,
+    backgroundColor:'#A7A7A7',
   },
   SecTableColData: {
     width: '9.05%',
@@ -211,7 +212,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding: 3.5,
   },
   SecTableColTotal: {
     width: '9.05%',
@@ -220,7 +221,7 @@ const styles = StyleSheet.create({
     borderRightWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding: 3.5,
   },
   SecTableColOne: {
     width: '25%',
@@ -228,7 +229,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderLeftWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding: 3.5,
+    backgroundColor:'#A7A7A7',
   },
   SecTableColOneData: {
     width: '22.6%',
@@ -237,7 +239,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 4,
+    padding: 3.5,
   },
   SecTableColOneTotal: {
     width: '22.6%',
@@ -247,7 +249,7 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     borderRightWidth: 0,
     height: 'auto',
-    padding: 4,
+    padding: 3.5,
   },
   SecTableColTwo: {
     width: '10%',
@@ -255,7 +257,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderLeftWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding:3.5,
+    backgroundColor:'#A7A7A7',
   },
   SecTableColTwoData: {
     width: '9.05%',
@@ -264,7 +267,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 4,
+    padding:3.5,
   },
   SecTableColTwoTotal: {
     width: '9.05%',
@@ -274,7 +277,7 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     borderRightWidth: 0,
     height: 'auto',
-    padding: 4,
+    padding: 3.5,
   },
   SecTableColTwoo: {
     width: '10%',
@@ -282,7 +285,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderLeftWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding:3.5,
+    backgroundColor:'#A7A7A7',
   },
   SecDoubleTable: {
     display: 'table',
@@ -292,21 +296,22 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderLeftWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding: 3.5,
+    backgroundColor:'#A7A7A7',
   },
   SecTableDoubleCol: {
     borderStyle: 'solid',
     borderWidth: 1,
     borderLeftWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding:3.5,
   },
   SecText: {
-    fontSize: 10,
+    fontSize: 9,
     textAlign: 'center',
   },
   SecTextDouble: {
-    fontSize: 10,
+    fontSize: 9,
     marginLeft: 35
   },
   ExamRow: {
@@ -320,7 +325,8 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     height: 'auto',
     paddingVertical: 2,
-    paddingHorizontal: 10
+    paddingHorizontal: 10,
+    backgroundColor:'#A7A7A7',
   },
   ExamColDataOne: {
     width: '5.4%',
@@ -329,7 +335,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5
+    padding: 3.5
   },
   ExamColDataOneTotal: {
     width: '5.4%',
@@ -339,7 +345,7 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     borderRightWidth: 0,
     height: 'auto',
-    padding: 5
+    padding: 3.5
   },
   ExamColDataTwo: {
     width: '5.5%',
@@ -348,7 +354,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5
+    padding: 3.5
   },
   ExamColDataTwoTotal: {
     width: '5.5%',
@@ -358,7 +364,7 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     borderRightWidth: 0,
     height: 'auto',
-    padding: 5
+    padding: 3.5
   },
   ExamColDataThree: {
     width: '5.8%',
@@ -367,7 +373,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5
+    padding: 3.5
   },
   ExamColDataThreeTotal: {
     width: '5.8%',
@@ -377,7 +383,7 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     borderRightWidth: 0,
     height: 'auto',
-    padding: 5
+    padding: 3.5
   },
   ExamColDataFour: {
     width: '6.4%',
@@ -386,7 +392,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5
+    padding: 3.5
   },
   ExamColDataFourTotal: {
     width: '6.4%',
@@ -396,7 +402,7 @@ const styles = StyleSheet.create({
     borderTopWidth: 0,
     borderRightWidth: 0,
     height: 'auto',
-    padding: 5
+    padding: 3.5
   },
   ExamSecText: {
     fontSize: 8,
@@ -413,7 +419,8 @@ const styles = StyleSheet.create({
     borderStyle: 'solid',
     borderWidth: 1,
     height: 'auto',
-    padding: 5,
+    padding: 3.5,
+    backgroundColor:'#A7A7A7',
   },
   ThirdTableColOne: {
     width: '30%',
@@ -421,7 +428,16 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderLeftWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding:3.5,
+    backgroundColor:'#A7A7A7',
+  },
+  ThirdTableColOnee: {
+    width: '30%',
+    borderStyle: 'solid',
+    borderWidth: 1,
+    borderLeftWidth: 0,
+    height: 'auto',
+    padding: 3.5,
   },
   ThirdTableColTwo: {
     width: '30%',
@@ -429,7 +445,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding:3.5,
   },
   ThirdTableColThree: {
     width: '30%',
@@ -438,7 +454,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding: 3.5,
   },
   ThirdTableColFour: {
     width: '15%',
@@ -447,7 +463,7 @@ const styles = StyleSheet.create({
     borderLeftWidth: 0,
     borderTopWidth: 0,
     height: 'auto',
-    padding: 5,
+    padding:3.5,
   },
   ThirdTableText: {
     fontSize: 10,
@@ -461,7 +477,7 @@ const styles = StyleSheet.create({
     marginTop: 8,
     borderWidth: 1,
     borderRadius: 5,
-    padding: 10
+    padding: 5
   },
   TextOne: {
     fontSize: 10,
@@ -1208,7 +1224,251 @@ const MyDocument = () => {
                 <Text style={styles.SecTextData}>4.00</Text>
               </View>
             </View>
-
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
+            <View style={styles.SecTableRow}>
+              <View style={styles.SecTableColData}>
+                <Text style={styles.SecTextData}>1</Text>
+              </View>
+              <View style={styles.SecTableColOneData}>
+                <Text style={styles.SecTextData}>Bangladesh and Global Studies</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>100</Text>
+              </View>
+              <View style={styles.ExamColDataOne}>
+                <Text style={styles.SecTextData}>13</Text>
+              </View>
+              <View style={styles.ExamColDataTwo}>
+                <Text style={styles.SecTextData}>48</Text>
+              </View>
+              <View style={styles.ExamColDataThree}>
+                <Text style={styles.SecTextData}>10.43</Text>
+              </View>
+              <View style={styles.ExamColDataFour}>
+                <Text style={styles.SecTextData}>71.90</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>72.00</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>96.10</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>A+</Text>
+              </View>
+              <View style={styles.SecTableColTwoData}>
+                <Text style={styles.SecTextData}>4.00</Text>
+              </View>
+            </View>
             <View style={styles.SecTableRow}>
               <View style={styles.SecTableColTotal}>
                 <Text style={styles.SecTextData}> </Text>
@@ -1254,7 +1514,7 @@ const MyDocument = () => {
               <View style={styles.ThirdTableCol}>
                 <Text style={styles.ThirdTableText}>Grade Point Average</Text>
               </View>
-              <View style={styles.ThirdTableColOne}>
+              <View style={styles.ThirdTableColOnee}>
                 <Text style={styles.ThirdTableText}>3.33</Text>
               </View>
               <View style={styles.ThirdTableColOne}>
